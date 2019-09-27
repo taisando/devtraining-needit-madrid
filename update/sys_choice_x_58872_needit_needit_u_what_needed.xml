@@ -23,6 +23,25 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Orther</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-26 17:11:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccbbefbadb80001006b3da75ca9619e7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-26 17:18:16</sys_updated_on>
+            <value>orther</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
@@ -151,6 +170,25 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-09-23 17:51:35</sys_updated_on>
             <value>your_choice_2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-26 17:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>933da33edb80001006b3da75ca9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-26 17:18:16</sys_updated_on>
+            <value>other</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_what_needed</element>
